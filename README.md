@@ -4,4 +4,4 @@ This is a test project for evaluating the review agent.
 
 ## Getting Started
 
-Run `make biuld` to compile the project.
+Run `make build` to compile the project.
